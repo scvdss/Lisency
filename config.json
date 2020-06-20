@@ -5,7 +5,7 @@
     "developers": {
         "BrainDead": 197918569894379520
     },
-    "maximum_unused_guild_licences": 100,
+    "maximum_unused_guild_licences": 1000,
     "support_channel_invite": "https://discord.gg/trCYUkz",
     "top_gg_api_key": "",
     "token": ""
